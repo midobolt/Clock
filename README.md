@@ -1,1 +1,1 @@
-# Clock
+# Clock (JS, CSS, HTML)
